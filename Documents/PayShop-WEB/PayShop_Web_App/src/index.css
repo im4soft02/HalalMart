@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#img img {
+  /* height: 100%; */
+  /* width: 100%; */
+  /* object-fit: cover; */
+}
+
+.slick-next {
+  /* background-color: blueviolet; */
+  max-width: fit-content;
+  /* height: auto; */
+  /* padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 2%;
+  padding-top: 2%; */
+  /* width: 100%; */
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+.slider-arrow {
+  position: absolute;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+}
+
+.slick-next {
+  background-color: aqua;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+  /* padding: 20px;
+  gap: 3; */
+  /* background-color: #3c12f9; */
+}
+.slick-list {
+  /* margin: -5px; */
+  /* background-color: #ff00dd; */
+}
+
+.slider .priv_arrow {
+  color: aliceblue;
+  font-size: 30px;
+  height: 40px;
+  width: 50px;
+}
+
+#Warp_form {
+  max-width: fit-content;
+  width: 100%;
+}
+
+#Card::-webkit-scrollbar {
+  width: 0;
+}
+
+.box {
+}
+
+.slick-slide div {
+  /* width: 100%; */
+  /* max-width: 620px; */
+  display: flex !important;
+  /* background-color: black; */
+  /* overflow: hidden; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* SweetAlert */
+.custom-title-class {
+  color: #ff0000; /* Atur warna font menjadi merah */
+}
+
+.custom-confirm-button-class {
+  background-color: #00ff00; /* Atur warna latar belakang tombol menjadi hijau */
+  color: #ffffff; /* Atur warna font tombol menjadi putih */
+}
+
+/* Dropdown */
+.Dropdown {
+}
+
+.Dropdown::before {
+  content: "";
+  z-index: 0;
+  position: absolute;
+  top: -0.7rem;
+  right: 0.5rem;
+  width: 25px;
+  height: 25px;
+  transform: rotate(45deg);
+  background-color: #fefefe;
+}
+
+

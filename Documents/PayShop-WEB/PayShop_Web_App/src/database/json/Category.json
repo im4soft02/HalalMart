@@ -1,0 +1,85 @@
+{
+  "category": [
+    {
+      "category_id": 1,
+      "category_name": "Makanan",
+      "product": [
+        {
+          "product_id": "1",
+          "name": "roti aoka",
+          "quantity": "1213",
+          "price": "2.500",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "2",
+          "name": "buah naga",
+          "quantity": "1213",
+          "price": "55.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "3",
+          "name": "biskuit",
+          "quantity": "1213",
+          "price": "19.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Minuman",
+      "product": [
+        {
+          "product_id": "4",
+          "name": "pepsi",
+          "quantity": "1213",
+          "price": "7.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "5",
+          "name": "Coca cola",
+          "quantity": "1213",
+          "price": "5.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "6",
+          "name": "fanta",
+          "quantity": "1213",
+          "price": "10.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Perlatan Dapur",
+      "product": [
+        {
+          "product_id": "7",
+          "name": "blender",
+          "quantity": "1213",
+          "price": "155.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "8",
+          "name": "sabun",
+          "quantity": "1213",
+          "price": "12.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        },
+        {
+          "product_id": "9",
+          "name": "Sapu Rumah",
+          "quantity": "1213",
+          "price": "17.000",
+          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+        }
+      ]
+    }
+  ]
+}
